@@ -10,7 +10,7 @@ This is the backend for a chat application built using Python, FastApi, Docker, 
 - Real-time chat
 - Message storage (MySQL)
 - Dockerized for deployment
-- Unit tests included(Not Dockerized)
+- Unit tests with pytest included(Not Dockerized)
 
 ## Prerequisites
 
